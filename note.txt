@@ -1,0 +1,8 @@
+000webhost.com : anhcu.facebook@gmail.com
+    db databases.000webhost.com
+    user id18925424_root
+    password *eyqW4hW<<G6$#li
+    dbname id18925424_ecommerceapp
+
+
+
